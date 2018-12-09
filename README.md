@@ -1,3 +1,13 @@
+## Reuse
+  - essayer sans installer en global, c'est mieux !
+  - git clone https://github.com/allizad/jekyll-webpack.git
+  - cd jekyll-webpack
+  - npm install webpack babel-core babel-loader babel-preset-es2015 babel-preset-react react react-addons-update react-dom --save-dev
+  - npm install webpack-cli
+  - webpack
+  - jekyll build
+  - jekyll serve
+
 ## Jekyll & Webpack, integrated
 
 So you can have your React and serve it statically, too. Plugin-free! (<- that's like saying orange juice is gluten-free, btw)
