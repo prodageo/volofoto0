@@ -7,6 +7,9 @@
   - webpack
   - jekyll build
   - jekyll serve
+  
+  pour modifier le programme
+  - vi ./webpack/entry.js
 
 ## Jekyll & Webpack, integrated
 
